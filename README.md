@@ -17,8 +17,3 @@ Topics discussed are:-
 12) [Tupples, Dictionary And Sets](https://github.com/BabaMalik/Coding-Ninjas-Introduction-to-Python/tree/master/12%20Tupples%2C%20Dictionary%20And%20Sets)
 
 
-
-Register the course with the following referral link to get a discount of ₹1,000/-    
-Referral Link: https://classroom.codingninjas.com/app/invite/ZEUJL 
-
-**P.S: Don't forget to sign up with a new ID to avail discount**
